@@ -141,7 +141,7 @@
       <dmn:annotation name=""/>
       <dmn:rule id="_480C3FEA-649B-47FE-BF15-00E9D5506AA1">
         <dmn:inputEntry id="_5E048B97-A1B3-42C0-B729-39DEECF3A3B1">
-          <dmn:text>&gt;720</dmn:text>
+          <dmn:text>&gt;725</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_8E9DCFB1-4BE2-4ED8-A30B-6E82265AEFE6">
           <dmn:text>"Affordable","Marginal"</dmn:text>
